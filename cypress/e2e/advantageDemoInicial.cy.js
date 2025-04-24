@@ -103,5 +103,4 @@ describe('Pagina inicial Advantage Shopping', () => {
 
     cy.contains('ORDER PAYMENT')
   })
-
 })
