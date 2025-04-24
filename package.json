@@ -1,5 +1,25 @@
 {
-  "dependencies": {
-    "cypress": "^14.3.1"
-  }
+  "name": "testescomcy-aplicacaoecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "cypress": "^14.3.2"
+  },
+  "scripts": {
+    "test": "cucumber-js",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabioDev21/TestesComCy-AplicacaoEcommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabioDev21/TestesComCy-AplicacaoEcommerce/issues"
+  },
+  "homepage": "https://github.com/fabioDev21/TestesComCy-AplicacaoEcommerce#readme"
 }
