@@ -1,5 +1,5 @@
 # Sobre o projeto
-Uma suíte de testes que testa a aplicacao Advantage Demo afim de garantir fluxos basicos como: Buscar produto na pagina, adicao de item no carrinho e validacao de itens na tela de pagamento.
+Uma suíte de testes afim de validar fluxos básicos na aplicacao Advantage Demo afim de garantir a qualidade do produto.
 
 ## Pré-requisitos
 Para utilizar esse projeto sem problemas voce irá precisar do Node.js e um gerenciador de pacotes instalado em sua máquina:
